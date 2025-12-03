@@ -28,6 +28,6 @@ func SlidingWindowDemo(s string) int {
 }
 
 func main() {
-	word := "abcabcbb"
+	word := "fabrzyfabrzy"
 	fmt.Println(SlidingWindowDemo(word))
 }
